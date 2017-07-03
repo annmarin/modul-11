@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	background: url(image/button.jpeg) center/cover no-repeat;
+	height: 100vh;
+}
+.btn1 {
+	margin-top: calc((100vh - 100px)/2);
+	margin-left: calc((100vw - 300px)/2);
+	width: 300px;
+	height: 100px;
+    background-color: #e5f32c;
+    font-size: 60px;
+    line-height: 60px;
+    border: none;
+}
